@@ -1,0 +1,8 @@
+name: ClearArmors
+main: src.ClearArmors
+version: 1.0
+commands:
+  cleararmors:
+    description: Remove armors of a player
+    usage: |
+           /cleararmors <playername>
